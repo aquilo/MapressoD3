@@ -51,7 +51,7 @@ mapressod3.map = function () {
     getToolTip: function (d, alldata, thedata) {
       var txt = d.id + ": " + thedata.get(d.id);
       return txt;
-    }),
+    },
     mtyp: 1
   };
 
