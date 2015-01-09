@@ -1,0 +1,500 @@
+   76  airport -s
+   77  ln -s /System/Library/PrivateFrameworks/Apple80211.framework/Resources/airport /usr/local/bin/airport
+   78  ln -s /System/Library/PrivateFrameworks/Apple80211.framework/Resources/airport /usr/local/bin/airport
+   79  airport -s
+   80  /System/Library/PrivateFrameworks/Apple80211.framework/Resources/airport -s
+   81  pwd
+   82  sencha app build native
+   83  sencha app build native
+   84  sencha app build native
+   85  sencha app build native
+   86  pwd
+   87  cd
+   88  bower
+   89  install Processing.js
+   90  pwd
+   91  npm install -g bower
+   92  bower install Processing.js
+   93  ls
+   94  bower install
+   95  bower ?
+   96  bower list
+   97  bower info
+   98  bower info Processing.js
+   99  pwd
+  100  sencha
+  101  sencha cordova
+  102  sencha upgrade
+  103  pwd
+  104  cd cordova
+  105  sudo npm update -g cordova
+  106  cd Dropbox/
+  107  cd 0000
+  108  ls
+  109  cd gs1
+  110  ls
+  111  cd ..
+  112  ls
+  113  mkdir gs2
+  114  cd gs2
+  115  ls
+  116  cordova -v
+  117  xcodebuild -version
+  118  sencha which
+  119  pwd
+  120  sencha -sdc /Development/touch-2.3.1a/ generate GS4 GallerySolitaire
+  121  sencha -sdk /Development/touch-2.3.1a/ generate GS4 GallerySolitaire
+  122  sencha -sdk /Development/touch-2.3.1a/ generate app GS4 GallerySolitaire
+  123  $ls
+  124  ls
+  125  rmdir GallerySolitaire/
+  126  cd ../gs1
+  127  ls
+  128  pwd
+  129  cd /Users/ah/Dropbox/0000/gs1/GallerySolitaire3/cordova/platforms/ios 
+  130  l
+  131  ls
+  132  ftp ftp.mapresso.com
+  133  cd Dropbox/0000/
+  134  ls
+  135  cd gs1
+  136  ls
+  137  ls -alt
+  138  ls
+  139  cd GallerySolitaire3/
+  140  ls
+  141  sencha -v
+  142  cordova -v
+  143  which sencha
+  144  sencha upgrade
+  145  which sencha
+  146  which xcodebuild
+  147  sencha app build native
+  148  cd Dropbox/pwd
+  149  pwd
+  150  cd Dropbox/0000/gs1
+  151  sencha -sdk /Development/touch-2.3.1a/ generate app GallerySolitaire GallerySolitaire4
+  152  cd GallerySolitaire4
+  153  ls
+  154  sencha cordova init com.mapresso.gallery GallerySolitaire
+  155  sencha app build -run native
+  156  sencha app build -run native
+  157  sencha app build native
+  158  java -version
+  159  sencha which
+  160  cd Dropbox/0000/gs1/
+  161  cd 4_GallerySolitaire/
+  162  sencha build
+  163  sencha
+  164  sencha ugrade
+  165  sencha upgrade
+  166  sencha build app
+  167  sencha 
+  168  sencha app build
+  169  pwd
+  170  cd Dropbox/0000/gs1/
+  171  cd 4_
+  172  cd 4_GallerySolitaire/
+  173  ls
+  174  sencha build
+  175  which sencha
+  176  cd /Users/ah/bin/Sencha/Cmd/5.0.2.270
+  177  cd ..
+  178  ls
+  179  cd -
+  180  ls
+  181  sench
+  182  sencha
+  183  sencha upgrade
+  184  pwd
+  185  cd
+  186  sencha upgrade
+  187  cd -
+  188  cd -
+  189  cd Dropbox/0000/gs1/4_GallerySolitaire/
+  190  sencha build
+  191  which sencha
+  192  cd 
+  193  cd bin
+  194  ls
+  195  cd Sencha/
+  196  ls
+  197  cd Cmd/
+  198  ls
+  199  pwd
+  200  sencha 
+  201  sencha app build
+  202  pwd
+  203  sencha app build
+  204  sencha app build
+  205  sencha app build
+  206  cd res
+  207  cd resources/
+  208  git status
+  209  pwd
+  210  ssh -vT git@github.com
+  211  eval "$(ssh-agent -s)"
+  212  ssh-add -l
+  213  pwd
+  214  ls
+  215  pwd
+  216  cd ..
+  217  ls
+  218  history
+  219  sencha app build
+  220  sencha app build native
+  221  pwd
+  222  cd cordova/
+  223  cordova plugin add de.appplant.cordova.plugin.email-composer@0.8.2
+  224  cordova plugin add https://github.com/katzer/cordova-plugin-email-composer.git
+  225  cd ..
+  226  sencha app build native
+  227  sencha app build 
+  228  sencha app build native
+  229  sencha app build 
+  230  pwd
+  231  cd cordova/
+  232  cordova
+  233  cordova prepare
+  234  cordova compile
+  235  cordova compile
+  236  cordova compile
+  237  corddova platform ios
+  238  cordova platform ios
+  239  cordova compile
+  240  cordova platform add ios
+  241  cordova prepare
+  242  cordova build
+  243  cordova cordova plugin add https://github.com/katzer/cordova-plugin-email-composer.git
+  244  cordova plugin add https://github.com/katzer/cordova-plugin-email-composer.git
+  245  cordova
+  246  cordova plugin
+  247  pwd
+  248  cd ..
+  249  sencha app build native
+  250  cd cordova/
+  251  cordova plugin
+  252  cordova plugin ?
+  253  cordova plugin remove de.appplant.cordova.plugin.email-composer 0.8.2dev
+  254  cordova plugin remove EmailComposer
+  255  cordova plugin list
+  256  cordova plugin remove de.appplant.cordova.plugin.email-composer 0.8.2dev "EmailComposer"
+  257  cordova plugin remove de.appplant.cordova.plugin.email-composer 0.8.2dev 
+  258  cordova plugin list
+  259  cordova plugin remove EmailComposer
+  260  cordova plugin list
+  261  $cordova
+  262  cordova plugin rm de.appplant.cordova.plugin.email-composer 0.8.2dev
+  263  cordova plugin list
+  264  cordova plugin add de.appplant.cordova.plugin.email-composer@0.8.2
+  265  cordova plugin add https://github.com/katzer/cordova-plugin-email-composer.git
+  266  cordova plugin add emailcomposer
+  267  cordova build
+  268  sencha app build native
+  269  sencha app build native
+  270  cd Dropbox/
+  271  ls
+  272  cd 0000
+  273  ls
+  274  cd gs1/
+  275  ls
+  276  cordova create ~/EmailTest EmailTest
+  277  cd ~/EmailTest/
+  278  cordova platform add ios
+  279  cordova plugin add emailcomposer
+  280  cordova build$
+  281  cordova build
+  282  pwd
+  283  cd ..
+  284  sencha build native
+  285  pwd
+  286  cd cordova/
+  287  cordova build ios
+  288  cordova plugin
+  289  cordova build ios
+  290  pwd
+  291  cordova plugin list
+  292  cordova plugin rm emailcomposer
+  293  cordova plugin list
+  294  cordova build ios
+  295  pwd
+  296  cd ..
+  297  sencha app build native
+  298  cd cordova/
+  299  cordova plugin list
+  300  compile build ios
+  301  cordova build ios
+  302  cd ..
+  303  pwd
+  304  sencha
+  305  sencha cordova init com.mapresso.gallery GallerySolitaire
+  306  sencha app build native
+  307  pwd
+  308  cd cordova
+  309  cordova paltform add ios
+  310  cordova platform add ios
+  311  cordova plugin add emailcomposer 
+  312  cordova build
+  313  cordova plugin list
+  314  pwd
+  315  cordova 
+  316  cordova build ios
+  317  pwd
+  318  cordova plugin list
+  319  cordova plugin add https://github.com/katzer/cordova-plugin-email-composer.git
+  320  cordova build ios
+  321  cordova plugin list
+  322  cordova plugin add org.apache.cordova.inappbrowser
+  323  cordova app build ios
+  324  cordova
+  325  cordova build ios
+  326  pwd
+  327  cordova cordova plugin add org.apache.cordova.splashscreen
+  328  ordova plugin add org.apache.cordova.splashscreen
+  329  cordova plugin add org.apache.cordova.splashscreen
+  330  cordova build ios
+  331  cordova build ios
+  332  cordova build ios
+  333  history
+  334  pwd
+  335  cd ..
+  336  sencha app build native
+  337  cd cordova/
+  338  ls
+  339  cordova plugin list
+  340  cordova plugin rm org.apache.cordova.splashscreen
+  341  cd ..
+  342  sencha app build native
+  343  sencha app build native
+  344  sencha app build native
+  345  history
+  346  pwd
+  347  sencha app build native
+  348  sencha app build native
+  349  sencha app build native
+  350  sencha app build native
+  351  sencha app build native
+  352  sencha app build native
+  353  sencha build
+  354  sencha app build native
+  355  sencha app build native
+  356  sencha app build native
+  357  sencha app build native
+  358  sencha app build native
+  359  sencha app build native
+  360  domovie
+  361  cd /Users/ah/Develop/PontoCam 
+  362  ./domovie
+  363  ./domovie.sh
+  364  ./domovie.sh
+  365  ./domovie.sh 15-12-29
+  366  ./domovie.sh 15-12-29
+  367  ls
+  368  ./domanymovies.sh
+  369  ls -alt
+  370  chmode +x domanymovies.sh 
+  371  chmod +x domanymovies.sh 
+  372  ./domanymovies.sh
+  373  pwd
+  374  ./domovie.sh
+  375  c
+  376  cd /Users/ah/Dropbox/ebooks/mastering-d3-2.0.0 
+  377  ls
+  378  bower install
+  379  bower install
+  380  cd chapter07
+  381  LS
+  382  cd windmill
+  383  ls
+  384  bower install
+  385  ./domovie.sh
+  386  npm install --save bower
+  387  sudo npm install --save bower
+  388  bower init
+  389  bower search d3
+  390  bower install --save d3
+  391  history
+  392  grunt
+  393  grunt --force
+  394  grunt --force
+  395  pwd
+  396  cd /Users/ah/Dropbox/ebooks/mastering-d3-2.0.0/chapter07/windmill-sample 
+  397  bower
+  398  bower install
+  399  grunt
+  400  pwd
+  401  grunt
+  402  grunt --force
+  403  grunt --force
+  404  grunt --force
+  405  grunt --force
+  406  grunt --force
+  407  grunt --force
+  408  grunt --force
+  409  grunt --force
+  410  grunt --force
+  411  grunt --force
+  412  grunt --force
+  413  ./domovie.sh
+  414  ./domovie.sh 15-01-04
+  415  grunt --force
+  416  grunt --force
+  417  grunt --force
+  418  grunt --force
+  419  grunt --force
+  420  grunt --force
+  421  grunt --force
+  422  grunt --force
+  423  grunt --force
+  424  grunt --force
+  425  grunt --force
+  426  grunt --force
+  427  grunt --force
+  428  grunt --force
+  429  grunt --force
+  430  grunt --force
+  431  grunpwd
+  432  ls
+  433  ls src
+  434  grunt --force
+  435  grunt --force
+  436  grunt --force
+  437  grunt --force
+  438  grunt --force
+  439  grunt --force
+  440  grunt --force
+  441  grunt --force
+  442  grunt --force
+  443  grunt --force
+  444  grunt --force
+  445  grunt --force
+  446  grunt --force
+  447  grunt --force
+  448  grunt --force
+  449  grunt --force
+  450  grunt --force
+  451  grunt --force
+  452  grunt --force
+  453  grunt --force
+  454  grunt --force
+  455  npm install --save topojson
+  456  sudo npm install --save topojson
+  457  grunt --force
+  458  grunt --force
+  459  grunt --force
+  460  grunt --force
+  461  grunt --force
+  462  grunt --force
+  463  grunt --force
+  464  grunt --force
+  465  grunt --force
+  466  grunt --force
+  467  grunt --force
+  468  grunt --force
+  469  grunt --force
+  470  grunt --force
+  471  grunt --force
+  472  grunt --force
+  473  grunt --force
+  474  grunt --force
+  475  grunt --force
+  476  grunt --force
+  477  grunt --force
+  478  grunt --force
+  479  grunt --force
+  480  grunt --force
+  481  grunt --force
+  482  grunt --force
+  483  grunt --force
+  484  grunt --force
+  485  grunt --force
+  486  grunt --force
+  487  grunt --force
+  488  grunt --force
+  489  grunt --force
+  490  grunt --force
+  491  grunt --force
+  492  grunt --force
+  493  grunt --force
+  494  grunt --force
+  495  grunt --force
+  496  grunt --force
+  497  grunt --force
+  498  grunt --force
+  499  grunt --force
+  500  grunt --force
+  501  grunt --force
+  502  grunt --force
+  503  grunt --force
+  504  grunt --force
+  505  grunt --force
+  506  grunt --force
+  507  grunt --force
+  508  grunt --force
+  509  grunt --force
+  510  grunt --force
+  511  grunt --force
+  512  grunt --force
+  513  grunt --force
+  514  grunt --force
+  515  grunt --force
+  516  grunt --force
+  517  grunt --force
+  518  grunt --force
+  519  sudo npm install grunt-contrib-cssmin --save-dev
+  520  grunt
+  521  grunt
+  522  grunt
+  523  grunt
+  524  grunt
+  525  grunt
+  526  grunt cssmin
+  527  grunt cssmin
+  528  grunt cssmin
+  529  grunt cssmin
+  530  grunt cssmin
+  531  grunt cssmin
+  532  grunt cssmin
+  533  grunt cssmin
+  534  grunt cssmin
+  535  grunt cssmin
+  536  grunt cssmin
+  537  grunt cssmin
+  538  grunt cssmin
+  539  grunt
+  540  grunt
+  541  grunt
+  542  grunt
+  543  grunt
+  544  grunt
+  545  grunt
+  546  grunt
+  547  grunt
+  548  grunt
+  549  grunt
+  550  grunt
+  551  grunt
+  552  grunt
+  553  grunt
+  554  grunt
+  555  grunt
+  556  grunt
+  557  grunt
+  558  grunt
+  559  grunt
+  560  grunt
+  561  grunt
+  562  grunt
+  563  grunt
+  564  grunt
+  565  grunt
+  566  grunt
+  567  grunt
+  568  grunt
+  569  grunt
+  570  grunt
+  571  grunt
+  572  grunt
+  573  grunt
+  574  grunt
+  575  history > xxx.txt
