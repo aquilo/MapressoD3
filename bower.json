@@ -1,0 +1,26 @@
+{
+  "name": "MapressoD3",
+  "version": "0.0.1",
+  "authors": [
+    "Adrian Herzog <adi@mapresso.com>"
+  ],
+  "description": "MAPresso with D3.js",
+  "main": "mapressod3.js",
+  "keywords": [
+    "map",
+    "cartography",
+    "d3"
+  ],
+  "license": "MIT",
+  "homepage": "http://mapresso.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.3"
+  }
+}

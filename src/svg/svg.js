@@ -1,0 +1,2 @@
+
+mapressod3.svg = {};
